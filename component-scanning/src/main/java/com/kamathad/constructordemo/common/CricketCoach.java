@@ -1,4 +1,4 @@
-package com.kamathad.util;
+package com.kamathad.constructordemo.common;
 
 import org.springframework.stereotype.Component;
 

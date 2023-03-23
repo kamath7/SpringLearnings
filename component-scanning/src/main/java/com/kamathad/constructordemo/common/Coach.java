@@ -1,4 +1,4 @@
-package com.kamathad.util;
+package com.kamathad.constructordemo.common;
 
 public interface Coach {
 
